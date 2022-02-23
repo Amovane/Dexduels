@@ -29,8 +29,6 @@ According to `DEXDUELS_DEXES`, the program would generate pairs of dexes to make
   ```
 - Run with `node dexduels.js`
 
-## Notice
-
 ## Contact me
 
 If you're interested in quant or web3 technology, we can be friends and share experience for each other.
