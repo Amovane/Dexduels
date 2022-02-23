@@ -29,6 +29,7 @@ According to `DEXDUELS_DEXES`, the program would generate pairs of dexes to make
 
 If you're interested in quant or web3 technology, we can be friends and share experience for each other.
 
+- Discord: [Add Friend](https://discord.com/channels/@me) with `yooso#3441`
 - Telegram: [osoooy](https://t.me/osoooy)
 - Wechat:
 <p align="center">
