@@ -1,6 +1,6 @@
 # README
 
-Arbitrage program demo using web3js lib to implement interaction with dex which is running on smartbch chain like `Benswap`, `Mistswap`, etc.
+Arbitrage program demo using web3js lib to implement interaction with dex which is running on smartbch chain like `Benswap`, `Mistswap`, etc. By the way, it can also run on other EVM compatible sidechain after a few modifications.
 
 ## Strategy summary
 
